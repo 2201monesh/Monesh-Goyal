@@ -12,6 +12,10 @@ section {
   padding: 100px 200px;
 }
 
+html {
+  overflow-x: hidden;
+}
+
 .main {
   position: relative;
   width: 100%;
