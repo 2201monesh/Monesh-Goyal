@@ -13,7 +13,9 @@ section {
 }
 
 html {
+  width: auto;
   overflow-x: hidden;
+  margin: 0;
 }
 
 .main {
